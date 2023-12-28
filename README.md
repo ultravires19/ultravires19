@@ -6,7 +6,7 @@
 
 ### self-taught dev path
 - began as a hobbyist in 2017 but aggregate *time in the code* ≈ 2 years
-- started with python, moved to the MERN stack, and finally settled on Rust with SolidJS/TypeScript
+- started with python, moved to the MERN stack, and finally settled on Rust™ with SolidJS/TypeScript
 
 ### currently working on...
 🍅 - [Pomodoro D'Oro](https://github.com/ultravires19/pomodoro) - A customizable 'pomodoro' timer using SolidJS and WASM!! Why WASM? Why not?  
